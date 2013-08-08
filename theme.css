@@ -1,0 +1,38 @@
+body {
+  font-family: sans-serif;
+  color: #111;
+  background-color: rgba(0, 200, 50, 0.6);
+}
+
+.slides h2,
+.slides p,
+.slides li {
+  font-size: 4em;
+  line-height: 1.3;
+  text-align: left;
+}
+
+.slides h2 {
+  font-weight: bolder;
+  margin-bottom: 0.5em;
+}
+
+.slides p {
+}
+
+.slides em {
+  font-weight: bold;
+  font-style: normal;
+}
+
+.slides .pic {
+  vertical-align: top;
+  display: inline-block;
+  padding-right: 2em;
+  padding-top: 5em;
+}
+
+.slides .half {
+  display: inline-block;
+  width: 50%;
+}
